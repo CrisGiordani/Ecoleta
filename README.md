@@ -1,3 +1,5 @@
+![topo.png](topo.png)
+
 # Ecoleta # Next Level Week
 
 Projeto desenvolvido durante a Next Level Week (1 a 7 de junho de 2020), promovido pela Rocketseat 
@@ -13,3 +15,50 @@ O Projeto
 ![projeto.png](projeto.png)
 
 Ecoleta é um sistema FullStack (com back-end, front-end web e mobile) de cadastramento de pontos de coleta de variados itens recicláveis, para facilitar o acesso da população e incentivar um descarte consciente.
+
+---
+
+Dependências utilizadas
+
+**Back-end**
+
+- cors
+- express
+- knex
+- react-native-svg
+- sqlite3
+
+**Front-end**
+
+- axios
+- leaflet
+- react
+- react-dom
+- react-icons
+- react-leaflet
+- react-router-dom
+- react-scripts
+- typescript
+
+**Mobile**
+
+- @expo-google-fonts
+- @react-native-community/masked-view
+- @react-navigation/native
+- @react-navigation/stack
+- axios
+- constants
+- expo
+- expo-font
+- expo-location
+- expo-mail-composer
+- react
+- react-dom
+- react-native
+- react-native-gesture-handler
+- react-native-maps
+- react-native-reanimated
+- react-native-safe-area-context
+- react-native-screens
+- react-native-svg
+- react-native-web
