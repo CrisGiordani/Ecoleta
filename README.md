@@ -2,7 +2,7 @@
 
 # Ecoleta # Next Level Week
 
-Projeto desenvolvido durante a Next Level Week (1 a 7 de junho de 2020), promovido pela Rocketseat 
+Projeto desenvolvido durante a Next Level Week (1 a 7 de junho de 2020), promovido pela [https://rocketseat.com.br](Rocketseat) 
 
 **Sobre a NLW** 
 
@@ -14,7 +14,7 @@ O Projeto
 
 ![projeto.png](projeto.png)
 
-Ecoleta é um sistema FullStack (com back-end, front-end web e mobile) de cadastramento de pontos de coleta de variados itens recicláveis, para facilitar o acesso da população e incentivar um descarte consciente.
+Ecoleta é um sistema FullStack em Javascript (Node.js, ReactJS, React-Native) de cadastramento de pontos de coleta de variados itens recicláveis, para facilitar o acesso da população e incentivar um descarte consciente.
 
 ---
 
