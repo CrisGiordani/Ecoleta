@@ -23,8 +23,10 @@ Dependências utilizadas
 **Back-end**
 
 - cors
+- crypto
 - express
 - knex
+- multer
 - react-native-svg
 - sqlite3
 
@@ -34,6 +36,7 @@ Dependências utilizadas
 - leaflet
 - react
 - react-dom
+- react-dropzone
 - react-icons
 - react-leaflet
 - react-router-dom
