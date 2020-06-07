@@ -1,4 +1,4 @@
-![topo.png](topo.png)
+![topo.jpg](topo.jpg)
 
 # Ecoleta # Next Level Week
 
